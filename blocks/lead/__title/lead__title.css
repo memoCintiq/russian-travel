@@ -25,10 +25,3 @@
     max-width: 288px;
   }
 }
-
-@media screen and (min-width: 321px) {
-  .lead__title {
-    margin: 0 auto 0 auto;
-    max-width: 720px;
-  }
-}
